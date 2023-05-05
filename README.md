@@ -1,5 +1,5 @@
 ## 👋 Hola! Soy Pablo Bauer - Ingeniero Aeronáutico 🚀 especializado en Data Science 👋
-![Portada]()
+![DALL·E 2023-05-04 22 45 40 - hotdog spaceship traveling at speed light, pixel art](https://user-images.githubusercontent.com/22222933/236363538-2a968de3-17d6-44d3-96cb-854ec64f6268.png)
 ### Bio
 :es:
 
@@ -22,7 +22,7 @@ Soy Ingeniero Aeronáutico especializado científico de datos con más de 8 año
 - Others
 
 ---
-**Gracias por visitar mi perfil de GitHub, ¡espero que encuentres algo interesante aquí!**
+***Gracias por visitar mi perfil de GitHub, ¡espero que encuentres algo interesante aquí!***
 <!--
 **BauerPablo/BauerPablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
