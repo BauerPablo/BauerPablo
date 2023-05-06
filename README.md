@@ -3,12 +3,12 @@
 ### Bio
 :es:
 
-Soy Ingeniero Aeronáutico especializado científico de datos con más de 8 años en la industria Aerocomercial y con 2 años de experiencia en análisis de datos y resolución de problemas complejos y un sólida conocimiento en Data Science. Mi experiencia incluye el desarrollo de modelos de aprendizaje automático, visualización de datos y análisis estadístico. En este repositorio encontrarás algunos de mis proyectos de ciencia de datos, que están abiertos al público. Si deseas colaborar o saber más sobre mí, no dudes en contactarme por correo electrónico: 📫 pablo.bauer.rocca@gmail.com.
+Soy Ingeniero Aeronáutico con más de 8 años de experiencia en la industria Aerocomercial, 2 años de experiencia en análisis de datos, resolución e implementacion de mejoras continuas. Y también un sólido conocimiento en Data Science. Mi experiencia incluye el desarrollo de modelos de aprendizaje automático, visualización de datos y análisis estadístico. En este repositorio encontrarás algunos de mis proyectos de Data Science, que están abiertos al público. Si deseas colaborar o saber más sobre mí, no dudes en contactarme por correo electrónico: 📫 pablo.bauer.rocca@gmail.com.
 
 ---
 :us:
 
-*I am an Aeronautical Engineer specialized in data science with more than 8 years in the Aerocomercial industry and with 2 years of experience in data analysis and resolution of complex problems and a solid knowledge in Data Science. My experience includes developing machine learning models, data visualization, and statistical analysis. In this repository you will find some of my data science projects, which are open to the public. If you want to collaborate or know more about me, do not hesitate to contact me by email: 📫 pablo.bauer.rocca@gmail.com.*
+*I am an Aeronautical Engineer with more than 8 years of experience in the Aerocomercial industry, 2 years of experience in data analysis, resolution and implementation of continuous improvements. Also a solid knowledge in Data Science. My experience includes developing machine learning models, data visualization, and statistical analysis. In this repository you will find some of my data science projects, which are open to the public. If you want to collaborate or know more about me, don't hesitate to contact me by email: 📫 pablo.bauer.rocca@gmail.com.*
 
 ### 💻 Technologies 💻
 - Python (Data Science)
