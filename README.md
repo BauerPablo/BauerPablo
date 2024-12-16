@@ -5,6 +5,7 @@
 
 Emprendiendo en el mundo de Data Science y con habilidades en programación en diversos lenguajes, incluyendo JAVA, C#, HTML, CSS, MySQL y fuertemente especializado en Python con librerías de Machine Learning (Sci-kit learn, TensorFlow + Keras). Busco combinar mi experiencia en Calidad con el desarrollo de tecnologías de Machine Learning, aportando en la implementación de proceso. Interesado en contribuir al crecimiento y éxito en la industria dinámica y en constante evolución. Con una sólida formación como Ingeniero Aeronáutico y más de 9 años de experiencia en la industria Aerocomercial, cultivando habilidades técnicas y analíticas que considero esenciales para contribuir en desafíos más grandes. Si deseas colaborar o saber más sobre mí, no dudes en contactarme por correo electrónico: 📫 pablo.bauer.rocca@gmail.com.
 Linked-In: https://www.linkedin.com/in/pablo-bauer-rocca/
+
 ---
 :us:
 
