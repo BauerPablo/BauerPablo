@@ -3,12 +3,13 @@
 ### Bio
 :es:
 
-Emprendiendo en el mundo de Data Science y con fuertes habilidades en programación en diversos lenguajes, incluyendo JAVA, C#, HTML, CSS, MySQL y Python con librerías de Machine Learning (Sci-kit learn, TensorFlow + Keras). Busco combinar mi experiencia en Calidad con el desarrollo de tecnologías de Machine Learning, aportando en la implementación de proceso. Interesado en contribuir al crecimiento y éxito en la industria dinámica y en constante evolución. Con una sólida formación como Ingeniero Aeronáutico y más de 8 años de experiencia en la industria Aerocomercial, he cultivado habilidades técnicas y analíticas que considero esenciales para contribuir en el mercado. En este repositorio encontrarás algunos de mis proyectos de Data Science y Machine Learning, que están abiertos al público. Lamentablemente no puedo mostrat todo mi trabajo ya que algunos son confidenciales, pero sin duda encontrarás cosas interesantes en las que he trabajado. Si deseas colaborar o saber más sobre mí, no dudes en contactarme por correo electrónico: 📫 pablo.bauer.rocca@gmail.com.
-
+Emprendiendo en el mundo de Data Science y con habilidades en programación en diversos lenguajes, incluyendo JAVA, C#, HTML, CSS, MySQL y fuertemente especializado en Python con librerías de Machine Learning (Sci-kit learn, TensorFlow + Keras). Busco combinar mi experiencia en Calidad con el desarrollo de tecnologías de Machine Learning, aportando en la implementación de proceso. Interesado en contribuir al crecimiento y éxito en la industria dinámica y en constante evolución. Con una sólida formación como Ingeniero Aeronáutico y más de 9 años de experiencia en la industria Aerocomercial, cultivando habilidades técnicas y analíticas que considero esenciales para contribuir en desafíos más grandes. Si deseas colaborar o saber más sobre mí, no dudes en contactarme por correo electrónico: 📫 pablo.bauer.rocca@gmail.com.
+Linked-In: https://www.linkedin.com/in/pablo-bauer-rocca/
 ---
 :us:
 
-*Venturing into the world of Data Science with strong programming skills in various languages, including JAVA, C#, HTML, CSS, MySQL, and Python with Machine Learning libraries (Sci-kit learn, TensorFlow + Keras). I aim to combine my experience in Quality with the development of Machine Learning technologies, contributing to process implementation. Interested in contributing to the growth and success of the dynamic and ever-evolving industry. With a solid background as an Aeronautical Engineer and over 8 years of experience in the Aerospace industry, I have cultivated technical and analytical skills that I consider essential to contribute to the market. In this repository, you will find some of my Data Science and Machine Learning projects, which are open to the public. Unfortunately, I cannot show all my work as some are confidential, but you will certainly find interesting things I have worked on. If you wish to collaborate or learn more about me, feel free to contact me via email: 📫 pablo.bauer.rocca@gmail.com.*
+*Venturing into the world of Data Science with strong programming skills across multiple languages, including JAVA, C#, HTML, CSS, and MySQL, with a deep specialization in Python and Machine Learning libraries such as Sci-kit Learn and TensorFlow + Keras. I aim to combine my expertise in Quality with the development of Machine Learning technologies, contributing to the implementation of efficient processes. I am eager to drive growth and success in a dynamic and constantly evolving industry. With a solid background as an Aeronautical Engineer and over 9 years of experience in the Aeronautical sector, I have honed the technical and analytical skills I consider essential to tackle larger challenges and deliver impactful solutions. If you wish to collaborate or learn more about me, feel free to contact me via email: 📫 pablo.bauer.rocca@gmail.com.
+Linked-In: https://www.linkedin.com/in/pablo-bauer-rocca/*
 
 ### 💻 Technologies 💻
 - Python (Data Science)
@@ -19,6 +20,7 @@ Emprendiendo en el mundo de Data Science y con fuertes habilidades en programaci
 - C#
 - HTML
 - CSS
+- Bootstrap
 - Others
 
 ---
